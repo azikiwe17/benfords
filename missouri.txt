@@ -1,0 +1,50 @@
+GEO.id	GEO.id2	GEO.display-label	D001
+Id	Id2	Geography	Total
+0800000US481579371503708670800	4.81579E+20	Census Tract 6708 (part), Arcola city, Stafford-Missouri City CCD, Fort Bend County, Texas	390
+0800000US481579371503708674501	4.81579E+20	Census Tract 6745.01 (part), Arcola city, Stafford-Missouri City CCD, Fort Bend County, Texas	7
+0800000US481579371503708674502	4.81579E+20	Census Tract 6745.02 (part), Arcola city, Stafford-Missouri City CCD, Fort Bend County, Texas	1245
+0800000US481579371525795671100	4.81579E+20	Census Tract 6711 (part), Fifth Street CDP, Stafford-Missouri City CCD, Fort Bend County, Texas	2482
+0800000US481579371525795671300	4.81579E+20	Census Tract 6713 (part), Fifth Street CDP, Stafford-Missouri City CCD, Fort Bend County, Texas	4
+0800000US481579371527540670700	4.81579E+20	Census Tract 6707 (part), Fresno CDP, Stafford-Missouri City CCD, Fort Bend County, Texas	255
+0800000US481579371527540670800	4.81579E+20	Census Tract 6708 (part), Fresno CDP, Stafford-Missouri City CCD, Fort Bend County, Texas	13794
+0800000US481579371527540670901	4.81579E+20	Census Tract 6709.01 (part), Fresno CDP, Stafford-Missouri City CCD, Fort Bend County, Texas	0
+0800000US481579371527540670902	4.81579E+20	Census Tract 6709.02 (part), Fresno CDP, Stafford-Missouri City CCD, Fort Bend County, Texas	5020
+0800000US481579371535000670101	4.81579E+20	Census Tract 6701.01 (part), Houston city (part), Stafford-Missouri City CCD, Fort Bend County, Texas	6774
+0800000US481579371535000670102	4.81579E+20	Census Tract 6701.02, Houston city (part), Stafford-Missouri City CCD, Fort Bend County, Texas	3383
+0800000US481579371535000670200	4.81579E+20	Census Tract 6702, Houston city (part), Stafford-Missouri City CCD, Fort Bend County, Texas	8322
+0800000US481579371535000670300	4.81579E+20	Census Tract 6703, Houston city (part), Stafford-Missouri City CCD, Fort Bend County, Texas	3801
+0800000US481579371535000670400	4.81579E+20	Census Tract 6704, Houston city (part), Stafford-Missouri City CCD, Fort Bend County, Texas	5058
+0800000US481579371535000670500	4.81579E+20	Census Tract 6705 (part), Houston city (part), Stafford-Missouri City CCD, Fort Bend County, Texas	0
+0800000US481579371535000670601	4.81579E+20	Census Tract 6706.01 (part), Houston city (part), Stafford-Missouri City CCD, Fort Bend County, Texas	3239
+0800000US481579371535000670602	4.81579E+20	Census Tract 6706.02, Houston city (part), Stafford-Missouri City CCD, Fort Bend County, Texas	1907
+0800000US481579371535000670700	4.81579E+20	Census Tract 6707 (part), Houston city (part), Stafford-Missouri City CCD, Fort Bend County, Texas	1506
+0800000US481579371548804670500	4.81579E+20	Census Tract 6705 (part), Missouri City city (part), Stafford-Missouri City CCD, Fort Bend County, Texas	4102
+0800000US481579371548804670601	4.81579E+20	Census Tract 6706.01 (part), Missouri City city (part), Stafford-Missouri City CCD, Fort Bend County, Texas	5736
+0800000US481579371548804670700	4.81579E+20	Census Tract 6707 (part), Missouri City city (part), Stafford-Missouri City CCD, Fort Bend County, Texas	577
+0800000US481579371548804670800	4.81579E+20	Census Tract 6708 (part), Missouri City city (part), Stafford-Missouri City CCD, Fort Bend County, Texas	58
+0800000US481579371548804670901	4.81579E+20	Census Tract 6709.01 (part), Missouri City city (part), Stafford-Missouri City CCD, Fort Bend County, Texas	10085
+0800000US481579371548804670902	4.81579E+20	Census Tract 6709.02 (part), Missouri City city (part), Stafford-Missouri City CCD, Fort Bend County, Texas	0
+0800000US481579371548804671001	4.81579E+20	Census Tract 6710.01, Missouri City city (part), Stafford-Missouri City CCD, Fort Bend County, Texas	5412
+0800000US481579371548804671002	4.81579E+20	Census Tract 6710.02, Missouri City city (part), Stafford-Missouri City CCD, Fort Bend County, Texas	6459
+0800000US481579371548804671100	4.81579E+20	Census Tract 6711 (part), Missouri City city (part), Stafford-Missouri City CCD, Fort Bend County, Texas	5647
+0800000US481579371548804671200	4.81579E+20	Census Tract 6712 (part), Missouri City city (part), Stafford-Missouri City CCD, Fort Bend County, Texas	3799
+0800000US481579371548804671300	4.81579E+20	Census Tract 6713 (part), Missouri City city (part), Stafford-Missouri City CCD, Fort Bend County, Texas	443
+0800000US481579371548804671800	4.81579E+20	Census Tract 6718 (part), Missouri City city (part), Stafford-Missouri City CCD, Fort Bend County, Texas	53
+0800000US481579371548804674501	4.81579E+20	Census Tract 6745.01 (part), Missouri City city (part), Stafford-Missouri City CCD, Fort Bend County, Texas	3681
+0800000US481579371548804674502	4.81579E+20	Census Tract 6745.02 (part), Missouri City city (part), Stafford-Missouri City CCD, Fort Bend County, Texas	152
+0800000US481579371556348670700	4.81579E+20	Census Tract 6707 (part), Pearland city (part), Stafford-Missouri City CCD, Fort Bend County, Texas	721
+0800000US481579371556348670800	4.81579E+20	Census Tract 6708 (part), Pearland city (part), Stafford-Missouri City CCD, Fort Bend County, Texas	0
+0800000US481579371567766674502	4.81579E+20	Census Tract 6745.02 (part), Sienna Plantation CDP, Stafford-Missouri City CCD, Fort Bend County, Texas	13721
+0800000US481579371569908671100	4.81579E+20	Census Tract 6711 (part), Stafford city (part), Stafford-Missouri City CCD, Fort Bend County, Texas	45
+0800000US481579371569908671200	4.81579E+20	Census Tract 6712 (part), Stafford city (part), Stafford-Missouri City CCD, Fort Bend County, Texas	2354
+0800000US481579371569908671300	4.81579E+20	Census Tract 6713 (part), Stafford city (part), Stafford-Missouri City CCD, Fort Bend County, Texas	1632
+0800000US481579371569908671800	4.81579E+20	Census Tract 6718 (part), Stafford city (part), Stafford-Missouri City CCD, Fort Bend County, Texas	2958
+0800000US481579371570808671800	4.81579E+20	Census Tract 6718 (part), Sugar Land city (part), Stafford-Missouri City CCD, Fort Bend County, Texas	0
+0800000US481579371599999670101	4.81579E+20	Census Tract 6701.01 (part), Remainder of Stafford-Missouri City CCD, Stafford-Missouri City CCD, Fort Bend County, Texas	27
+0800000US481579371599999670500	4.81579E+20	Census Tract 6705 (part), Remainder of Stafford-Missouri City CCD, Stafford-Missouri City CCD, Fort Bend County, Texas	0
+0800000US481579371599999670700	4.81579E+20	Census Tract 6707 (part), Remainder of Stafford-Missouri City CCD, Stafford-Missouri City CCD, Fort Bend County, Texas	323
+0800000US481579371599999670800	4.81579E+20	Census Tract 6708 (part), Remainder of Stafford-Missouri City CCD, Stafford-Missouri City CCD, Fort Bend County, Texas	112
+0800000US481579371599999670901	4.81579E+20	Census Tract 6709.01 (part), Remainder of Stafford-Missouri City CCD, Stafford-Missouri City CCD, Fort Bend County, Texas	129
+0800000US481579371599999671300	4.81579E+20	Census Tract 6713 (part), Remainder of Stafford-Missouri City CCD, Stafford-Missouri City CCD, Fort Bend County, Texas	1755
+0800000US481579371599999674501	4.81579E+20	Census Tract 6745.01 (part), Remainder of Stafford-Missouri City CCD, Stafford-Missouri City CCD, Fort Bend County, Texas	2915
+0800000US481579371599999674502	4.81579E+20	Census Tract 6745.02 (part), Remainder of Stafford-Missouri City CCD, Stafford-Missouri City CCD, Fort Bend County, Texas	1649
